@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="SpaceShooter:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SpaceShooter_jar</output-path>
+    <root id="archive" name="SpaceShooter.jar">
+      <element id="module-output" name="SpaceShooter" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jetbrains/annotations/18.0.0/annotations-18.0.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
